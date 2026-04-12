@@ -1,1 +1,1 @@
-# BlueMods 2026.00.1
+# BlueMods Server 2026.00.1
