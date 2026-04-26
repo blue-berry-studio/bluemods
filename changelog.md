@@ -1,3 +1,7 @@
+# CopperCraft Server 2026.00.2
+- Сервер был переименован в CopperCraft
+- Добавлен серверный мод ReTerraForged
+
 # CopperCraft Modpack 2026.4.25
 - Сборка теперь называется CopperCraft
 - Изменены языковые ключи в связи с переименованием сборки
