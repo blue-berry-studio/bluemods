@@ -1,1 +1,1 @@
-# bluemods
+# CopperCraft (Earlier BlueMods)
